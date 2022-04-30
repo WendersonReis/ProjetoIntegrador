@@ -1,0 +1,8 @@
+87;Nome isso ;1;Email.com;Rua nome da rua 88888888 
+91;Nome completo ;12547;Email.com;Rua nome da rua 87 
+92;Nome completo;0;Email.com;Rua nome da rua
+93;Nome completo ;12547;Email.com;Rua nome da rua 87 
+94;Nome completo;0;Email.com;Rua nome da rua
+95;Nome completo ;12547;Email.com;Rua nome da rua 87 
+96;Nome completo;0;Email.com;Rua nome da rua
+98;Nome completo ;12547;Email.com;Rua nome da rua 8555 
